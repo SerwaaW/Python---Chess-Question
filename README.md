@@ -1,4 +1,4 @@
-# Python---Chess-Question
+# Python
 
 Project description
 
